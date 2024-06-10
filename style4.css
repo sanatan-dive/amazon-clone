@@ -352,3 +352,13 @@ footer {
         width: 70%;
     }
 }
+.top{
+    text-decoration: none;
+    color: white;
+
+}
+
+.top:hover{
+    text-decoration: underline;
+    color: white;
+}
